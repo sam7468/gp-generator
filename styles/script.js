@@ -10,5 +10,5 @@ function remove(){
     var text = document.createTextNode("Refresh you page!")
     h3.setAttribute('id' , 'id2')
     h3.appendChild(text)
-    document.getElementById("refresh").appendChild(h3)
+    document.getElementById('refresh').appendChild(h3)
 }
