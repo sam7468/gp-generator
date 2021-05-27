@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(19, 29, 39);
+
+}
+
+h2{
+    color: lightyellow;
+
+}
+.container{
+    width: 1200px;
+    margin: auto;
+    border: 7px solid rgb(87, 86, 86);
+    border-radius: 50px;
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(29, 29, 29);
+}
+
+.btndiv{
+    padding: 10px;
+}
+
+.flexbox{
+    padding: 20px;
+    display: flex;
+    border: 3px solid gray;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.flexbox img{
+    padding: 20px;
+    height: 250px;
+    width: 250px;
+    border-radius: 150px;
+    box-shadow: 11px 10px 47px -15px rgba(199, 78, 78, 0.75);
+}
