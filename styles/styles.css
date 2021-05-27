@@ -36,3 +36,8 @@ h2{
     border-radius: 150px;
     box-shadow: 11px 10px 47px -15px rgba(199, 78, 78, 0.75);
 }
+
+h3{
+    color: red;
+        opacity: 0.6;
+}
